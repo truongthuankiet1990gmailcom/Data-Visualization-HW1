@@ -1,12 +1,529 @@
 ,artist,genres
-0,Sid Sriram,"['tollywood', 'kollywood', 'tamil pop', 'telugu pop']"
-1,Dat Boi Dee,"['italian trap', 'neomelodico', 'canzone napoletana']"
-2,Atif Aslam,"['desi', 'hindi pop', 'qawwali', 'sufi', 'bollywood']"
-3,Bella Shmurda,"['gqom', 'world music', 'alté', 'afrobeat', 'afropop', 'pop', 'afro-adura', 'afrobeats', 'afro soul', 'afro-soul', 'afro adura']"
-4,Tony Aguirre,"['sierreño', 'corridos tumbados', 'corrido', 'electro corridos', 'corridos bélicos']"
-5,Ngọc Haleyy,[]
-6,梓川かえで(CV:久保ユリカ),['anime']
-7,Guyon Waton,"['dangdut', 'lagu jawa', 'funkot']"
-8,Batuhan Kordel,[]
-9,Kevin Kaarl,"['mexican indie', 'latin folk']"
-10,Omoinotake,"['city pop', 'r&b and soul', 'j-pop', 'anime', 'japanese indie']"
+0,#Annyeong,['k-ballad']
+1,$A Milo,"['vietnamese hip hop', 'v-pop']"
+2,$NOT,"['fixme or cleanup', 'special purpose', 'special purpose artist', 'unknown']"
+3,$OHO BANI,['german hip hop']
+4,$ami,['trap']
+5,$ativa,"['vietnamese hip hop', 'v-pop']"
+6,$atori Zoom,"['drift phonk', 'dark trap', 'phonk']"
+7,$u,"['dark trap', 'emo rap', 'horrorcore', 'punk rap', 'cloud rap', 'underground hip hop']"
+8,$uicideboy$,"['dark trap', 'emo rap', 'horrorcore', 'punk rap', 'cloud rap', 'underground hip hop']"
+9,$¥,['v-pop']
+10,(G)I-DLE,['k-pop']
+11,(S)TRONG,"['v-pop', 'vietnamese lo-fi']"
+12,-,"['fixme or cleanup', 'special purpose', 'special purpose artist', 'unknown']"
+13,.Feast,"['indonesian indie', 'indorock']"
+14,01099,['german hip hop']
+15,01an,['hip hop']
+16,070 Shake,"['2010s', '2020s', 'alternative hip hop', 'cloud rap', 'contemporary r&b', 'experimental hip hop', 'poggers']"
+17,1 9 6 7,"['vietnamese lo-fi', 'vinahouse', 'v-pop', 'lo-fi']"
+18,10-FEET,"['melodic hardcore', 'j-rock', 'j-pop']"
+19,100лиця,[]
+20,104,['k-ballad']
+21,10AGE,['hip hop']
+22,10CM,"['k-ballad', 'soundtrack']"
+23,13 Organisé,['pop urbaine']
+24,14 Casper,"['v-pop', 'vietnam indie', 'vietnamese lo-fi']"
+25,16 BeanCd,['vietnamese hip hop']
+26,16 BrT,"['vietnamese hip hop', 'v-pop', 'vietnam indie']"
+27,16 Dsloth,['vietnamese hip hop']
+28,16 Northside,"['factory records', 'madchester']"
+29,16 Rehtona,"['vietnamese hip hop', 'vinahouse']"
+30,16 Typh,"['vietnamese hip hop', 'v-pop', 'vinahouse']"
+31,187 Strassenbande,['german hip hop']
+32,1967,"['vietnamese lo-fi', 'vinahouse', 'v-pop', 'lo-fi']"
+33,1989s Entertainment,"['v-pop', 'vietnamese lo-fi', 'vietnamese hip hop', 'vietnam indie']"
+34,1DEE,"['v-pop', 'vietnamese hip hop']"
+35,1K,"['mandopop', 'c-pop', 'chinese r&b']"
+36,1PLIKÉ140,['drill']
+37,1da Banton,"['afrobeats', 'afrobeat', 'afropop']"
+38,1nonly,['phonk']
+39,1stClass,['dancehall']
+40,21 Savage,"['gangsta rap', 'hip hop', 'mumble rap', 'pop rap', 'southern hip hop', 'trap']"
+41,23,"['v-pop', 'vietnamese hip hop', 'vietnam indie']"
+42,24k.Right,"['vietnamese hip hop', 'v-pop']"
+43,24kGoldn,"['2020s', 'cloud rap', 'english', 'hip hop', 'lo-fi hip hop', 'pop rap', 'rap', 'trap']"
+44,267,['v-pop']
+45,2Can,"['vietnamese hip hop', 'vietnam indie', 'v-pop']"
+46,2Pillz,"['vietnamese hip hop', 'v-pop']"
+47,2Point1,"['amapiano', 'gqom']"
+48,2See,['v-pop']
+49,2pillz,"['v-pop', 'vietnamese hip hop', 'vietnam indie', 'vinahouse']"
+50,3AM,['latin r&b']
+51,3robi,['hip hop']
+52,42 Dugg,"['2020s', '42 dugg', 'detroit', 'detroit trap', 'hardcore hip hop', 'hip hop', 'trap']"
+53,5 Seconds of Summer,"['2010s', 'pop', 'pop punk', 'pop rock', 'power pop', 'teen pop']"
+54,50 Cent,['east coast hip hop']
+55,52Hz,"['v-pop', 'vietnam indie', 'vietnamese hip hop']"
+56,5MIINUST,"['eurovision 2024 artists', 'hip hop']"
+57,5mewmet,[]
+58,6LACK,"['2010s', 'alternative r&b', 'contemporary r&b', 'hip hop', 'hip hop soul', 'pop soul', 'trap soul']"
+59,6arelyhuman,"['hyperpop', 'nightcore']"
+60,71 Digits,['slap house']
+61,7UPPERCUTS,"['vietnam indie', 'v-pop', 'vietnamese hip hop']"
+62,7dnight,"['vietnamese hip hop', 'v-pop']"
+63,911,['v-pop']
+64,95G,['vietnamese hip hop']
+65,9Data9,[]
+66,9mice,['trap']
+67,A Boogie Wit da Hoodie,['melodic rap']
+68,A Síng,[]
+69,A$AP Rocky,['rap']
+70,A-Lin,"['mandopop', 'taiwanese pop', 'c-pop', 'gufeng']"
+71,A-Mei Chang,"['mandopop', 'taiwanese pop', 'c-pop']"
+72,A.M. Turaz,"['sufi', 'bollywood', 'ghazal', 'hindi pop', 'desi']"
+73,A.Popp,[]
+74,A.R. Rahman,"['tamil pop', 'kollywood', 'bollywood', 'sufi', 'hindi pop', 'desi', 'tamil dance']"
+75,A2h,['hip hop']
+76,A36,['norwegian rap']
+77,A7S,['vocal house']
+78,ABHIR,"['hip hop', 'r&b', 'trap']"
+79,ACRAZE,['tech house']
+80,ACV,"['vinahouse', 'v-pop', 'vietnamese lo-fi']"
+81,ACY,['vietnamese hip hop']
+82,ADALYA,[]
+83,AEP SIMON,"['v-pop', 'vietnamese hip hop']"
+84,AFROJACK,"['edm', 'big room']"
+85,AIGEL,"['hip hop', 'idm', 'russian hip hop']"
+86,AK-69,"['j-rap', 'j-pop']"
+87,AKASAKI,['j-pop']
+88,AL SHAMI,"['khaleeji', 'arabic rap']"
+89,ALBLAK 52,['hip hop']
+90,ALCATRAZ,[]
+91,ALEMOND,[]
+92,ALISA,"['hard rock', 'russian', 'russian rock']"
+93,ALLMO$T,"['pinoy hip hop', 'pinoy r&b', 'opm', 'p-pop']"
+94,AM,"['v-pop', 'vietnamese hip hop', 'vietnam indie', 'vietnamese lo-fi']"
+95,AMEE,"['v-pop', 'vietnamese hip hop', 'vietnam indie', 'vietnamese lo-fi']"
+96,AMK,[]
+97,AMUSIK,"['brazilian trap', 'trap funk', 'trap', 'brazilian hip hop']"
+98,ANAVITÓRIA,"['mpb', 'nova mpb', 'brazilian pop']"
+99,ANDRO,"['pop', 'contemporary r&b', 'hip hop']"
+100,ANGUISH,"['hardstyle', 'frenchcore']"
+101,"ANH TRAI ""SAY HI""","['v-pop', 'vietnamese hip hop']"
+102,ANIKV,"['hip hop', 'pop', 'russian pop']"
+103,ANNA,['italian trap']
+104,ANNA ASTI,['russian pop']
+105,ANOTR,"['house', 'tech house']"
+106,AP Dhillon,"['punjabi hip hop', 'punjabi pop', 'desi', 'bhangra', 'desi hip hop', 'desi pop']"
+107,AP$ENT,"['indie rock', 'russian pop']"
+108,AQUAKEY,[]
+109,ARO,['finnish']
+110,ART,['k-pop']
+111,ARTEM SHILOVETS,[]
+112,ARY,['german hip hop']
+113,ASH ISLAND,['k-rap']
+114,ASTN,['r&b and soul']
+115,ATB,['trance']
+116,ATL Jacob,[]
+117,AUR,"['norwegian pop', 'art pop']"
+118,AURORA,"['norwegian pop', 'art pop']"
+119,AVA,['italian trap']
+120,AVAION,"['deep house', 'chill house']"
+121,AVO,['german hip hop']
+122,AX'EL,[]
+123,AXMO,"['big room', 'hardstyle']"
+124,AY AY,['future bass']
+125,AYLIVA,"['german pop', 'german hip hop']"
+126,Aan Story,"['indonesian pop', 'malay']"
+127,Aarne,['hip hop']
+128,Aaron Modesto,"['funk', 'funk consciente', 'trap funk']"
+129,Aasa Singh,"['indian indie', 'hindi indie']"
+130,Abd El Basset Hamouda,"['mahraganat', 'egyptian shaabi', 'egyptian pop', 'khaleeji']"
+131,Abdul Hannan,"['indian indie', 'hindi indie', 'desi', 'desi pop']"
+132,Abdullah Kasumbi,"['indian indie', 'hindi indie', 'desi']"
+133,Abel Balder,['house']
+134,Abhijay Sharma,"['punjabi pop', 'punjabi hip hop', 'desi pop', 'desi hip hop', 'hindi hip hop']"
+135,Abhilipsa Panda,"['bhajan', 'devotional']"
+136,Abida Parveen,"['sufi', 'qawwali', 'ghazal', 'desi']"
+137,Abou Debeing,['pop urbaine']
+138,Abyusif,"['egyptian hip hop', 'arabic rap', 'egyptian pop', 'mahraganat']"
+139,Ace Banzuelo,"['opm', 'p-pop', 'pinoy r&b', 'harana', 'pinoy indie', 'kundiman']"
+140,Achille Lauro,['italian trap']
+141,Achtabahn,"['german pop', 'tropical house']"
+142,Adam Levine,"['2010s', 'adam levine', 'blue-eyed soul', 'funk rock', 'neo soul', 'pop', 'pop rock', 'soft rock']"
+143,Adam Port,"['afro house', 'melodic house']"
+144,Adarsh Krishnan N,"['malayalam hip hop', 'tamil indie']"
+145,Addison Rae,"['2020s', 'bubblegum pop', 'dance-pop', 'pop', 'pop rock', 'teen pop']"
+146,Ade Govinda,"['malay', 'indonesian pop', 'malay pop']"
+147,Adekunle Gold,"['afrobeats', 'afrobeat', 'afropop', 'alté', 'afro soul', 'afroswing']"
+148,Adele,['soft pop']
+149,Adelmar Borrego,['lullaby']
+150,Adie,"['opm', 'harana', 'kundiman', 'p-pop', 'pinoy indie']"
+151,Aditya A,"['indian indie', 'hindi indie', 'hindi pop']"
+152,Aditya Bhardwaj,"['indian indie', 'hindi indie', 'desi pop', 'hindi pop']"
+153,Aditya Rikhari,"['hindi indie', 'indian indie', 'desi pop']"
+154,Aditya Sharma,[]
+155,Adrian Khalif,['indonesian pop']
+156,Adrianne Lenker,['indie folk']
+157,Adèle Castillon,['french pop']
+158,Afroto,"['egyptian hip hop', 'arabic rap', 'mahraganat', 'egyptian pop', 'khaleeji']"
+159,Afsana Khan,"['desi', 'punjabi pop']"
+160,Aftershine,"['lagu jawa', 'dangdut', 'funkot']"
+161,Agam Aggarwal,"['bhajan', 'devotional']"
+162,Agatino Romero,[]
+163,Age Of Love,['techno']
+164,Agiff,[]
+165,AgroPlay,"['agronejo', 'sertanejo', 'sertanejo universitário']"
+166,Agust D,"['k-pop', 'k-rap']"
+167,Ahmad Amin,['german hip hop']
+168,Ahmed Jahanzeb,['desi']
+169,Ahmed Saad,"['mahraganat', 'egyptian pop', 'khaleeji', 'egyptian shaabi', 'arabic rap']"
+170,Aileron,['noise']
+171,Aime Simone,['pop']
+172,Aimer,"['anime', 'j-pop', 'j-rock']"
+173,Aina Abdul,"['malay', 'malay pop', 'malaysian pop']"
+174,Airbag,['argentine rock']
+175,Aishwarya Suresh Bindra,"['kollywood', 'tamil pop']"
+176,Aitana,"['2020s', 'electropop', 'latin', 'latin pop']"
+177,Aitch,"['grime', 'uk drill', 'drill']"
+178,Ajaxx,"['brazilian trap', 'trap', 'trap funk', 'brazilian hip hop']"
+179,Ajebo Hustlers,"['afrobeats', 'alté', 'afrobeat', 'afropop', 'afro adura', 'afro soul']"
+180,Ak4:20,"['chilean trap', 'reggaeton chileno', 'chilean mambo', 'mambo', 'urbano latino']"
+181,Akapellah,['latin hip hop']
+182,Akashdeep Sengupta,['hindi pop']
+183,Akhil Sachdeva,"['hindi pop', 'bollywood']"
+184,Aki,"['vietnamese hip hop', 'vietnamese lo-fi', 'v-pop', 'vietnam indie', 'italo disco', 'hi-nrg']"
+185,Akiva,['mizrahi']
+186,Akshay Kumar,['bollywood']
+187,Al James,"['pinoy hip hop', 'pinoy r&b', 'opm', 'p-pop']"
+188,Al Nather,"['arabic rap', 'egyptian hip hop', 'khaleeji']"
+189,Al Xapo,"['amapiano', 'gqom']"
+190,Alaina Castillo,"['2019', 'female vocalists', 'latin', 'pop', 'rnb', 'spanish', 'youtube']"
+191,Alan Walker,"['2010s', '2020s', 'dance', 'edm', 'electro house', 'electronic', 'electropop', 'future bass', 'pop', 'progressive house', 'tropical house']"
+192,Alcemist,['drum and bass']
+193,Alcolirykoz,['latin hip hop']
+194,Alef Donk,"['arrocha', 'piseiro', 'seresta', 'forró']"
+195,Alena,['trance']
+196,Alessia Cara,"['2010s', '2020s', 'adult alternative', 'alternative r&b', 'contemporary r&b', 'lyricist', 'musician', 'pop', 'pop rock', 'pop soul', 'r&b', 'soul', 'vocalist']"
+197,Alesso,['edm']
+198,Alex Favela,"['electro corridos', 'corrido', 'corridos tumbados', 'corridos bélicos']"
+199,Alex Isley,"['neo soul', 'alternative r&b']"
+200,Alex Krack,['rkt']
+201,Alex Lam,"['v-pop', 'vietnamese hip hop']"
+202,Alex Rose,"['trap latino', 'reggaeton', 'urbano latino']"
+203,Alex Velea,['manele']
+204,Alex Warren,"['2020s', 'indie pop', 'pop']"
+205,Alexandre Tharaud,"['classical piano', 'classical']"
+206,Alexia,"['2000s', 'bubblegum dance', 'bubblegum pop', 'euro house', 'eurodance', 'europop', 'italo dance', 'italo house', 'italy', 'pop', 'synth-pop', 'techno']"
+207,Aleyna Tilki,"['turkish pop', 't-pop']"
+208,Alfa,"['indie pop', 'italia', 'pop', 'pop rap']"
+209,Ali Hoàng Dương,"['v-pop', 'vietnamese hip hop']"
+210,Ali Rabee,"['mahraganat', 'egyptian pop', 'khaleeji', 'egyptian shaabi']"
+211,Ali Sethi,"['ghazal', 'sufi', 'qawwali', 'desi', 'hindi indie', 'indian indie', 'hindi pop']"
+212,Alicia de Larrocha,"['classical piano', 'classical']"
+213,Alie-Keys,"['afro soul', 'gqom', 'afro house']"
+214,Alina Baraz,"['2020s', 'alternative r&b', 'ambient pop', 'electronic', 'neo soul', 'neo-soul', 'pop', 'r&b', 'soul', 'trip hop']"
+215,Aliocha Schneider,"['variété française', 'french pop']"
+216,Alisha Chinai,"['bollywood', 'desi', 'hindi pop']"
+217,Alisson Shore,"['pinoy hip hop', 'pinoy r&b', 'opm', 'p-pop', 'harana']"
+218,All Night Chill Makers,[]
+219,Alleh,[]
+220,Allen,"['alternative pop', 'alternative rock', 'british', 'contemporary r&b', 'dance-pop', 'electropop', 'indie pop', 'indie rock', 'nepo baby', 'pop', 'ska', 'synthpop', 'uk']"
+221,Alligatoah,"['german pop', 'german hip hop']"
+222,Allyz,['gqom']
+223,Alok,"['brazilian bass', 'electronic', 'slap house', 'electro house']"
+224,Alonzo,['pop urbaine']
+225,Alpha Wann,['hip hop']
+226,Alphaville,['synthpop']
+227,Alvaro Diaz,"['latin', 'reggaeton']"
+228,Alvaro Soler,"['latin pop', 'pop']"
+229,Alzate,"['ranchera', 'popular colombian music', 'vallenato']"
+230,Amaarae,"['alté', 'afrobeats']"
+231,Aman Jaji,['haryanvi pop']
+232,Amanda Reifer,[]
+233,Amani Kush,['reggae']
+234,Amarabha Banerjee,[]
+235,Amari,"['punjabi pop', 'punjabi hip hop']"
+236,Amaru,[]
+237,Amayellowbone,[]
+238,Amaza,"['amapiano', 'gqom']"
+239,Amazing Show,"['taiwanese indie', 'chinese indie', 'taiwanese pop', 'chinese rock', 'mandopop']"
+240,AmbVsh,[]
+241,Ambi Val,['noise']
+242,Amble,[]
+243,Ambrook Glacier,"['heavy metal', 'power metal']"
+244,Amelia Moore,[]
+245,Ami Faku,"['amapiano', 'afro soul', 'afropop', 'gqom', 'afro house']"
+246,Amiel Sol,"['opm', 'harana', 'pinoy indie', 'kundiman']"
+247,Amir Ameer,['indian indie']
+248,Amir Eid,"['egyptian pop', 'arabic rap', 'khaleeji', 'egyptian hip hop']"
+249,Amirchik,"['hip hop', 'pop', 'rap', 'russia', 'russian', 'russian hip hop', 'russian pop', 'russian rap']"
+250,Amitabh Bhattacharya,"['bollywood', 'hindi pop', 'desi']"
+251,Ammy Virk,"['bhangra', 'punjabi pop']"
+252,Amr Diab,"['egyptian pop', 'khaleeji']"
+253,An,"['v-pop', 'vietnamese hip hop']"
+254,An Coong,['v-pop']
+255,An Vũ,"['v-pop', 'vietnamese lo-fi']"
+256,An-Marlen,['pop']
+257,Ana Castela,"['agronejo', 'sertanejo', 'sertanejo universitário', 'piseiro']"
+258,Ana Laura Lopes,['brazilian pop']
+259,Anand Aravindakshan,"['kollywood', 'tamil pop']"
+260,Anantha Sreeram,"['tollywood', 'telugu pop']"
+261,Anatomy Rabbit,"['thai pop', 't-pop', 'thai indie pop']"
+262,Anaïs Cardot,[]
+263,Anderson & Vei da Pisadinha,"['piseiro', 'forró', 'arrocha', 'brega', 'seresta']"
+264,Anderson .Paak,"['alternative', 'alternative hip hop', 'alternative r&b', 'contemporary r&b', 'hip hop', 'r&b', 'soul']"
+265,Andi Rianto,['indonesian pop']
+266,Andiez,"['v-pop', 'vietnamese lo-fi', 'vietnam indie']"
+267,Andmesh,"['indonesian pop', 'malay', 'malay pop']"
+268,Andree,"['vietnamese hip hop', 'v-pop', 'vinahouse']"
+269,Andree Right Hand,"['vietnamese hip hop', 'v-pop', 'vinahouse']"
+270,Andrezin Araújo,"['piseiro', 'forró', 'arrocha', 'seresta']"
+271,Andy Keys,"['gqom', 'deep house', 'amapiano', 'afro house']"
+272,Andy Vu,['v-pop']
+273,Anfang,"['v-pop', 'vietnamese lo-fi']"
+274,Angelina Mango,"['europop', 'eurovision 2024 artists']"
+275,Anggi Marito,"['indonesian pop', 'malay']"
+276,Anggis Devaki,['indonesian pop']
+277,Angèle,"['french pop', 'variété française', 'chanson']"
+278,Anh Khang,"['v-pop', 'vietnam indie']"
+279,Anh Khơ Me,['vietnamese hip hop']
+280,Anh Mac,"['blues', 'blues rock', 'british', 'british blues', 'english', 'pop', 'pop rock', 'psychedelic rock', 'rock', 'soft rock']"
+281,Anh Phan,"['vietnamese hip hop', 'v-pop']"
+282,Anh Quân Idol,"['vinahouse', 'vietnamese lo-fi', 'v-pop', 'lo-fi']"
+283,Anh Tú,"['v-pop', 'vietnamese hip hop']"
+284,Anh Tú Atus,"['v-pop', 'vietnamese hip hop']"
+285,AnhVu,"['vinahouse', 'vietnamese lo-fi', 'vietnamese hip hop', 'v-pop']"
+286,Anirudh Ravichander,"['kollywood', 'tamil pop', 'tamil dance', 'tollywood', 'tamil hip hop', 'telugu pop']"
+287,Anitta,"['funk', 'latin', 'latin pop', 'pop', 'reggaeton', 'teen pop']"
+288,Anjali 99,['haryanvi pop']
+289,Ankerstjerne,[]
+290,Annalisa,['italo dance']
+291,Anne-Marie,"['alternative r&b', 'dance-pop', 'electronic', 'electropop', 'pop', 'r&b', 'soul']"
+292,AnnenMayKantereit,['german pop']
+293,Annie,['v-pop']
+294,Annika,['dansktop']
+295,Annural Khalid,"['indian indie', 'desi', 'hindi indie', 'desi pop']"
+296,Anson Lo 盧瀚霆,"['cantopop', 'c-pop']"
+297,Ant Wan,[]
+298,Antara Mitra,"['bollywood', 'hindi pop', 'desi']"
+299,Anthony Daasan,"['tamil dance', 'tamil pop', 'kollywood', 'kannada pop', 'tamil hip hop']"
+300,Anthony Keyrouz,['slap house']
+301,Antoneus Maximus,"['vietnamese hip hop', 'vinahouse', 'v-pop']"
+302,Anuel AA,"['reggaeton', 'trap latino', 'urbano latino', 'latin']"
+303,Anurag Kulkarni,"['tollywood', 'telugu pop']"
+304,Anurag Saikia,"['hindi indie', 'bollywood', 'ghazal', 'indian indie', 'hindi pop']"
+305,Anuv Jain,"['indian indie', 'hindi indie', 'hindi pop']"
+306,Anys,"['arabic rap', 'moroccan pop']"
+307,Anıl Emre Daldal,[]
+308,Anıl Piyancı,"['turkish hip hop', 'turkish pop']"
+309,Apache 207,['german hip hop']
+310,Aparshakti Khurana,['bollywood']
+311,Appel,[]
+312,Ara Johari,"['malay', 'malay pop', 'malaysian pop', 'malay rap']"
+313,Arash,['afro house']
+314,Arash Buana,[]
+315,Arcane,"['dark ambient', 'electronic']"
+316,Arcángel,"['reggaeton', 'trap latino', 'urbano latino']"
+317,Arde Bogotá,['indie']
+318,Ardeon,[]
+319,Ardhito Pramono,['indonesian indie']
+320,AreEeEyeDee,[]
+321,Arem Ozguc,"['turkish pop', 'turkish hip hop']"
+322,Ares,"['finnish hip hop', 'finnish pop']"
+323,Ari Abdul,['bedroom pop']
+324,Ariana Grande,['pop']
+325,Ariis,['phonk']
+326,Arijit Singh,"['hindi pop', 'bollywood', 'desi', 'bangla pop']"
+327,Arivu,"['tamil hip hop', 'tamil indie', 'tamil pop', 'tamil dance', 'kollywood', 'malayalam hip hop', 'desi hip hop']"
+328,Arjan Virk,['punjabi pop']
+329,Arko,"['hindi pop', 'bollywood', 'bangla pop', 'desi pop']"
+330,Armaan Malik,"['hindi pop', 'bollywood', 'kannada pop', 'tollywood', 'telugu pop']"
+331,Arman Aydin,"['turkish pop', 'turkish hip hop']"
+332,Arsy Widianto,['indonesian pop']
+333,Artem Tatishchevskiy,['hip hop']
+334,Artemas,"['electropop', 'contemporary r&b', 'hyperpop', 'dark wave']"
+335,Arthur Miguel,"['opm', 'harana', 'p-pop', 'kundiman']"
+336,Arthur Nery,"['opm', 'harana', 'p-pop', 'pinoy r&b', 'kundiman', 'pinoy indie']"
+337,Artie 5ive,['italian trap']
+338,Artigeardit,['dansktop']
+339,Artwork Wa Afrika,[]
+340,Aruma,['indonesian pop']
+341,Arvian Dwi,"['lagu timur', 'malay', 'indonesian pop']"
+342,Asake,"['afrobeats', 'afrobeat', 'afro adura', 'afropop', 'amapiano', 'afroswing']"
+343,Asees Kaur,"['hindi pop', 'bollywood', 'gujarati garba', 'desi']"
+344,Ash,"['alternative rock', 'britpop', 'indie rock', 'pop punk', 'post-britpop', 'power pop']"
+345,Ashin Chen,"['mandopop', 'c-pop', 'taiwanese pop']"
+346,Ashley Kutcher,[]
+347,Asil Gök,['turkish pop']
+348,Asim Azhar,"['desi', 'sufi', 'indian indie']"
+349,Aspasia Stratigou,"['entehno', 'laïko']"
+350,Astrid S,['norwegian pop']
+351,Astro,['k-pop']
+352,At' Fat,"['neo-prog', 'progressive rock']"
+353,Atif Aslam,"['bollywood', 'hindi pop', 'desi', 'sufi', 'qawwali']"
+354,Audiocrackerr,"['hindi hip hop', 'desi hip hop']"
+355,Auer,"['_consistency', 'audio drama', 'audiobook']"
+356,Aurélie,['indonesian indie']
+357,Ava Max,"['dance', 'dance-pop', 'electronic', 'electropop', 'jdanton2', 'los angeles', 'pop', 'sabrinafan', 'usa']"
+358,Aventura,"['bachata', 'bachata pop']"
+359,Averagekidluke,"['finnish hip hop', 'finnish pop']"
+360,Avery Anna,[]
+361,Avin Lu,"['v-pop', 'vietnam indie']"
+362,Avraham Tal,['mizrahi']
+363,Avvy Sra,"['punjabi pop', 'punjabi hip hop', 'bhangra']"
+364,Awdella,"['indonesian pop', 'malay']"
+365,Axolotes Mexicanos,[]
+366,Aya Nakamura,"['pop urbaine', 'french pop']"
+367,Ayase,"['vocaloid', 'j-pop']"
+368,Ayau,"['indie pop', 'r&b']"
+369,Aymos,"['amapiano', 'gqom']"
+370,Ayo Maff,"['afro adura', 'afrobeats', 'afrobeat', 'afropop']"
+371,Ayoub Anbaoui,"['moroccan pop', 'raï', 'arabic rap']"
+372,Ayra Starr,"['afrobeats', 'afrobeat', 'afropop', 'afro soul']"
+373,Ayushmann Khurrana,"['bollywood', 'hindi pop']"
+374,Az Chike,['hyphy']
+375,Azaan Sami Khan,"['desi pop', 'desi', 'qawwali']"
+376,Azana,"['afro soul', 'afropop', 'amapiano', 'gqom', 'afro house']"
+377,Azet,['german hip hop']
+378,Aziz Hedra,['indonesian pop']
+379,B Praak,"['hindi pop', 'desi pop', 'bollywood', 'punjabi pop']"
+380,B Ray,"['vietnamese hip hop', 'v-pop', 'vinahouse', 'vietnam indie']"
+381,B-Wine,"['vietnamese hip hop', 'v-pop', 'vietnam indie']"
+382,B.O.C,['v-pop']
+383,B.o.B,"['blues', 'blues rock', 'classic rock', 'contemporary folk', 'country', 'country rock', 'folk', 'folk rock', 'gospel', 'greenwich village scene', 'jazz', 'pop rock', 'rock', 'roots rock', 'singer-songwriter', 'singer/songwriter', 'traditional pop']"
+384,BABY $MOKE,"['vietnamese hip hop', 'v-pop']"
+385,BABYMETAL,"['j-rock', 'metal']"
+386,BABYMONSTER,['k-pop']
+387,BACH\YYY,[]
+388,BAD HOP,"['j-rap', 'hip hop']"
+389,BALLER,[]
+390,BAN,"['v-pop', 'vietnamese hip hop']"
+391,BB Trần,['v-pop']
+392,BCTM,"['vietnamese hip hop', 'v-pop']"
+393,BE:FIRST,['j-pop']
+394,BEAR MUSIC GROUP,['vinahouse']
+395,BEHM,"['finnish pop', 'iskelmä', 'finnish hip hop', 'finnish rock']"
+396,BEJO,['pop rap']
+397,BEN,['v-pop']
+398,BENNETT,['techno']
+399,BHZ,['german hip hop']
+400,BIA,"['east coast hip hop', 'hip hop', 'pop rap']"
+401,BIG KAY SMG,"['punjabi hip hop', 'punjabi pop', 'desi hip hop']"
+402,BIG Naughty,"['k-rap', 'k-ballad']"
+403,BIGBANG,['k-pop']
+404,BILLA JOE,['german hip hop']
+405,BILLY100,"['vietnamese hip hop', 'v-pop']"
+406,BIN,"['j-pop', 'japanese indie', 'j-rock']"
+407,BINHO,['german hip hop']
+408,BINI,"['p-pop', 'opm']"
+409,BJ Lips,"['hyperpop', 'pop']"
+410,BK,"['chinese r&b', 'chinese hip hop']"
+411,BL3SS,[]
+412,BLACKPINK,['k-pop']
+413,BLANCO,"['german', 'schlager']"
+414,BLESS THE GENTLEMAN,"['cologne', 'english', 'german', 'reggae']"
+415,BLESSED MANE,"['phonk', 'drift phonk', 'witch house']"
+416,BLOK3,"['turkish hip hop', 'turkish pop']"
+417,BMZ,"['v-pop', 'vietnamese lo-fi', 'vinahouse', 'vietnam indie']"
+418,BNAT,['v-pop']
+419,BNZO,[]
+420,BOMATELA,"['v-pop', 'vinahouse']"
+421,BOWKYLION,"['thai pop', 't-pop', 'thai indie pop']"
+422,BOYNEXTDOOR,['k-pop']
+423,BP Bounce,['vinahouse']
+424,BRANYA,[]
+425,BRGR,"['pinoy hip hop', 'pinoy r&b', 'opm']"
+426,BROWN,"['v-pop', 'vietnamese hip hop']"
+427,BSS,['k-pop']
+428,BTS,['k-pop']
+429,BUMJIN,['k-ballad']
+430,BUSHIDO ZHO,"['hip hop', 'rap', 'russian rap', 'trap']"
+431,BYOR,[]
+432,Baasik,"['brony', 'brostep', 'edm']"
+433,Babalwa M,"['amapiano', 'gqom']"
+434,Babasonicos,"['argentine rock', 'rock en español', 'latin rock', 'latin alternative']"
+435,Babblarna,['swedish ballads']
+436,Baby Buzz,"['fixme or cleanup', 'special purpose', 'special purpose artist', 'unknown']"
+437,Baby Gang,"['italian trap', 'drill']"
+438,Baby Keem,"['hip hop', 'trap', 'west coast hip hop']"
+439,Baby Melo,[]
+440,Baby Sam,[]
+441,Baby Sleeps,[]
+442,Baby Tate,"['queer', 'rap']"
+443,Babyboy AV,"['afrobeats', 'afrobeat', 'afropop']"
+444,Background White Noise,[]
+445,Baco Exu do Blues,"['brazilian hip hop', 'brazilian trap']"
+446,Bad Bunny,"['reggaeton', 'trap latino', 'latin', 'urbano latino']"
+447,Bad Gyal,['neoperreo']
+448,Bad Omens,"['metalcore', 'metal']"
+449,Badbie,['v-pop']
+450,Badbies,[]
+451,Badshah,"['bollywood', 'desi', 'hindi pop', 'desi hip hop', 'desi pop', 'hindi hip hop', 'punjabi pop']"
+452,Bahaa Sultan,"['egyptian pop', 'khaleeji', 'mahraganat', 'egyptian shaabi']"
+453,Bailey Zimmerman,['country']
+454,Bakermat,['tropical house']
+455,Bakr,[]
+456,Balaniewkor Thangkhiew,"['boom bap', 'chillwave', 'downtempo', 'hip hop', 'instrumental', 'instrumental hip hop', 'lo-fi', 'lo-fi hip hop']"
+457,Ballinciaga,"['russelåter', 'norwegian rap', 'norwegian pop', 'epadunk']"
+458,Balti,"['arabic rap', 'raï', 'moroccan pop']"
+459,Banda MS de Sergio Lizárraga,"['banda', 'norteño', 'grupera', 'música mexicana', 'corrido']"
+460,Bandang Lapis,"['opm', 'p-pop', 'pinoy alternative']"
+461,Bang Di,['v-pop']
+462,Bangers Only,['punk rock']
+463,Bankzitters,[]
+464,Bao-Tich Nguyen,['has german audiobooks']
+465,Barbara Pravi,"['chanson', 'french pop']"
+466,Barney Sku,['bangla pop']
+467,Barré,[]
+468,Basetsana,"['amapiano', 'gqom']"
+469,Bassie,"['amapiano', 'gqom']"
+470,Basta,"['a cappella', 'german']"
+471,Batas Senja,"['indonesian indie', 'indonesian pop']"
+472,Batuflex,"['turkish hip hop', 'drill']"
+473,Batuhan Kordel,['turkish pop']
+474,Bausa,['german hip hop']
+475,Bayaan,"['indian indie', 'hindi indie', 'desi']"
+476,Bayanni,"['afrobeats', 'afrobeat', 'afropop']"
+477,Bazzazian,['german hip hop']
+478,Be.A,"['vietnamese hip hop', 'vietnam indie', 'v-pop']"
+479,Beach Weather,['rock and roll']
+480,Bebe Rexha,"['pop', 'the sims']"
+481,Because,"['pinoy hip hop', 'pinoy r&b', 'opm', 'p-pop']"
+482,Becky G,"['reggaeton', 'latin']"
+483,Bedroom Audio,"['thai rock', 'thai pop', 't-pop']"
+484,BeeBB,['vinahouse']
+485,Beendo Z,[]
+486,BeepBeepChild,"['vietnamese hip hop', 'v-pop', 'vietnam indie']"
+487,Bella,"['fixme or cleanup', 'special purpose', 'special purpose artist', 'unknown']"
+488,Bella Shmurda,"['afro adura', 'afrobeats', 'afrobeat', 'afropop', 'alté', 'afro soul']"
+489,Belters Only,['dance']
+490,Ben Fero,['turkish hip hop']
+491,Ben Mazué,"['french pop', 'variété française', 'chanson', 'french house']"
+492,Ben&Ben,"['opm', 'pinoy indie', 'harana', 'p-pop', 'kundiman']"
+493,Benjamin Hav,['dansktop']
+494,Benjamin Ingrosso,['pop']
+495,Benly,['vietnamese hip hop']
+496,Benny,['v-pop']
+497,Benny Jamz,['dansktop']
+498,Benson Boone,"['pop', 'pop rock']"
+499,Bensoul,"['gengetone', 'rhumba', 'bongo flava', 'afro soul', 'afropop']"
+500,Beny Jr,['drill']
+501,Berkay Altunyay,['turkish pop']
+502,Bernadya,"['indonesian pop', 'indonesian indie']"
+503,Bernice West,[]
+504,Berq,['german pop']
+505,Bert Symoun,"['pinoy hip hop', 'pinoy r&b']"
+506,Betrand Putra Onsu,"['indonesian pop', 'malay']"
+507,Betsy,"['phonk', 'pop']"
+508,Bewegenboog,"[""children's music""]"
+509,Beyoncé,"['2000s', '2010s', '2020s', 'actress', 'adult contemporary', 'american', 'businesswoman', 'contemporary r&b', 'cultural icon', 'dance', 'dance-pop', 'dancer', 'director', 'disco', 'grammy winner', 'hip hop', 'house', 'icon', 'philanthropist', 'pianist', 'pop', 'pop rap', 'pop soul', 'progressive house', 'r&b', 'rap', 'soul', 'vocalist']"
+510,Beyond,"['cantopop', 'chinese rock', 'c-pop', 'mandopop']"
+511,Beéle,['reggaeton']
+512,Bhaskarabhatla,"['telugu pop', 'tollywood']"
+513,Bhavi,"['argentine trap', 'trap']"
+514,Bheems Ceciroleo,"['telugu pop', 'tollywood']"
+515,Bi Quang,"['k-pop', 'singer-songwriter']"
+516,Bi Shady,"['vietnamese hip hop', 'v-pop']"
+517,Bibo,['vinahouse']
+518,Bich Phuong,"['v-pop', 'vietnamese hip hop', 'vietnamese lo-fi', 'vinahouse', 'vietnam indie']"
+519,Bien,"['vietnamese hip hop', 'v-pop']"
+520,Big Baby Tape,[]
+521,Big Daddy,['aln-sh']
+522,Big One,"['argentine trap', 'cuarteto', 'cumbia']"
+523,Big Pat,['german hip hop']
+524,Big Sean,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']"
+525,Big T,"['hip hop', 'hip life', 'hip-hop', 'hiplife']"
+526,BigDaddy,"['v-pop', 'vietnamese hip hop', 'vinahouse', 'vietnam indie']"
+527,BigXthaPlug,['southern hip hop']
